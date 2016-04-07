@@ -1,19 +1,19 @@
-# lock
+# lockpc
 This module simply locks your computer.
 
 ## Install
 
 ```
-$ npm install lock -g
+$ npm install lockpc -g
 ```
 
 ## Usage
 
 ```
-$ lock
+$ lockpc
 ```
 
 ## Example
 ```
-$ lock
+$ lockpc
 ```

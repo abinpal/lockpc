@@ -1,5 +1,5 @@
 {
-  "name": "lock",
+  "name": "lockpc",
   "version": "1.0.0",
   "description": "This is a npm module to lock your computer",
   "main": "index.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abinpal/lock.git"
+    "url": "git+https://github.com/abinpal/lockpc.git"
   },
   "author": "Abin Pal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abinpal/lock/issues"
+    "url": "https://github.com/abinpal/lockpc/issues"
   },
-  "homepage": "https://github.com/abinpal/lock#readme",
+  "homepage": "https://github.com/abinpal/lockpc#readme",
   "dependencies": {
   },
   "bin": {
-    "lock": "index.js"
+    "lockpc": "index.js"
   },
   "keywords": [
     "lock screen"
